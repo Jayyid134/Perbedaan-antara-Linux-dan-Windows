@@ -51,6 +51,9 @@ Linux menawarkan kebebasan penuh dalam kustomisasi, termasuk mengubah lingkungan
 Perbandingan pengaturan tampilan kedua sistem operasi
 ### 5. Performa
 Linux dikenal lebih ringan dan efisien dalam penggunaan sumber daya, sehingga dapat berjalan dengan baik di perangkat keras lama. Windows, terutama versi terbaru, sering membutuhkan spesifikasi yang lebih tinggi dan bisa menjadi lambat pada perangkat dengan hardware terbatas. Karena itu, banyak server dan sistem tertanam menggunakan Linux karena efisiensinya.
+![image](https://github.com/user-attachments/assets/f07b06a4-5946-4b78-bc6c-a582d948a0cf)
+Gambaran performa kedua sistem operasi
+
 
 ### 6. Kompatibilitas Software
 Windows mendukung hampir semua perangkat lunak populer seperti Microsoft Office, Adobe Photoshop, dan AutoCAD tanpa perlu konfigurasi tambahan. Linux memiliki alternatif open-source seperti LibreOffice dan GIMP, tetapi beberapa aplikasi Windows tidak tersedia secara native dan perlu dijalankan menggunakan Wine atau emulator lainnya, yang kadang tidak bekerja dengan sempurna.
