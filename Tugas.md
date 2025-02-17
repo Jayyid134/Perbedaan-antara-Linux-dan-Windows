@@ -1,4 +1,4 @@
-# Bagian ynag dapat dikontrol pada unit kontrol Mikrokontroler(ESP32)
+# Bagian yang dapat dikontrol pada unit kontrol Mikrokontroler(ESP32)
 ![image](https://github.com/user-attachments/assets/a26c3b9e-6c53-4d95-9aea-683a114dff0e)
 
 Berikut adalah beberapa hal yang dapat dikontrol oleh Control Unit dalam ESP (ESP8266/ESP32):
